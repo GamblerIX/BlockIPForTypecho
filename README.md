@@ -42,6 +42,7 @@ usr/plugins/BlockIPForTypecho/
 ├── LICENSE                    # 许可证
 ├── codes/
 │   └── base/                  # 基础核心模块
+│   └── extension              # 扩展模块（待开发）
 ├── assets/                    # 静态资源
 ├── ip2region/                 # IP地理位置库
 └── docs/                      # 文档目录
